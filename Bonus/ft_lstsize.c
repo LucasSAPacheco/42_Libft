@@ -6,11 +6,11 @@
 /*   By: lsantana <lsantana@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/20 19:31:12 by lsantana          #+#    #+#             */
-/*   Updated: 2022/06/21 19:23:57 by lsantana         ###   ########.fr       */
+/*   Updated: 2022/10/16 17:56:43 by lsantana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 int	ft_lstsize(t_list *lst)
 {

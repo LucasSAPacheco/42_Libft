@@ -6,12 +6,11 @@
 /*   By: lsantana <lsantana@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/11 22:01:48 by lsantana          #+#    #+#             */
-/*   Updated: 2022/10/16 01:29:37 by lsantana         ###   ########.fr       */
+/*   Updated: 2022/10/16 17:58:31 by lsantana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-
-#include "libft.h"
+#include "../libft.h"
 
 char	*ft_strjoin(char *s1, char *s2)
 {

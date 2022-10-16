@@ -6,11 +6,11 @@
 /*   By: lsantana <lsantana@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/11 23:09:06 by lsantana          #+#    #+#             */
-/*   Updated: 2022/07/13 00:45:23 by lsantana         ###   ########.fr       */
+/*   Updated: 2022/10/16 17:58:43 by lsantana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 static size_t	ft_find_start(const char *s1, const char *set)
 {

@@ -6,11 +6,11 @@
 /*   By: lsantana <lsantana@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/08 21:51:24 by lsantana          #+#    #+#             */
-/*   Updated: 2022/06/21 19:40:06 by lsantana         ###   ########.fr       */
+/*   Updated: 2022/10/16 17:56:49 by lsantana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 int	ft_atoi(const char *nptr)
 {

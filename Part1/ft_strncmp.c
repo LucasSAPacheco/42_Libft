@@ -6,11 +6,11 @@
 /*   By: lsantana <lsantana@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/03 23:00:37 by lsantana          #+#    #+#             */
-/*   Updated: 2022/06/24 01:43:23 by lsantana         ###   ########.fr       */
+/*   Updated: 2022/10/16 17:57:46 by lsantana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 int	ft_strncmp(const char *s1, const char *s2, size_t n)
 {

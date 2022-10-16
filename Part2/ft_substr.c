@@ -6,11 +6,11 @@
 /*   By: lsantana <lsantana@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/11 20:28:04 by lsantana          #+#    #+#             */
-/*   Updated: 2022/06/17 01:41:19 by lsantana         ###   ########.fr       */
+/*   Updated: 2022/10/16 17:58:46 by lsantana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 char	*ft_substr(char const *s, unsigned int start, size_t len)
 {

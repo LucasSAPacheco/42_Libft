@@ -6,11 +6,11 @@
 /*   By: lsantana <lsantana@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/01 20:16:37 by lsantana          #+#    #+#             */
-/*   Updated: 2022/06/01 21:37:08 by lsantana         ###   ########.fr       */
+/*   Updated: 2022/10/16 17:57:20 by lsantana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 void	*ft_memmove(void *dest, const void *src, size_t n)
 {

@@ -6,11 +6,11 @@
 /*   By: lsantana <lsantana@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/31 23:27:31 by lsantana          #+#    #+#             */
-/*   Updated: 2022/06/01 20:16:34 by lsantana         ###   ########.fr       */
+/*   Updated: 2022/10/16 17:57:24 by lsantana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 void	*ft_memset(void *str, int c, size_t count)
 {

@@ -6,11 +6,11 @@
 /*   By: lsantana <lsantana@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/01 21:56:42 by lsantana          #+#    #+#             */
-/*   Updated: 2022/06/17 01:35:25 by lsantana         ###   ########.fr       */
+/*   Updated: 2022/10/16 17:57:53 by lsantana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 int	ft_tolower(int c)
 {

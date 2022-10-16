@@ -6,11 +6,11 @@
 /*   By: lsantana <lsantana@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/15 02:07:51 by lsantana          #+#    #+#             */
-/*   Updated: 2022/06/26 18:14:03 by lsantana         ###   ########.fr       */
+/*   Updated: 2022/10/16 17:58:04 by lsantana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 static int	ft_check_size(int n)
 {

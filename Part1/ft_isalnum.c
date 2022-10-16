@@ -6,11 +6,11 @@
 /*   By: lsantana <lsantana@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/31 18:42:07 by lsantana          #+#    #+#             */
-/*   Updated: 2022/06/21 19:42:31 by lsantana         ###   ########.fr       */
+/*   Updated: 2022/10/16 17:56:59 by lsantana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 int	ft_isalnum(int c)
 {

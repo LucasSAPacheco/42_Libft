@@ -6,11 +6,11 @@
 /*   By: lsantana <lsantana@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/03 23:24:43 by lsantana          #+#    #+#             */
-/*   Updated: 2022/06/21 05:53:41 by lsantana         ###   ########.fr       */
+/*   Updated: 2022/10/16 17:57:12 by lsantana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 void	*ft_memchr(const void *str, int c, size_t n)
 {

@@ -6,11 +6,11 @@
 /*   By: lsantana <lsantana@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/01 19:14:28 by lsantana          #+#    #+#             */
-/*   Updated: 2022/06/17 01:46:38 by lsantana         ###   ########.fr       */
+/*   Updated: 2022/10/16 17:56:50 by lsantana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 void	ft_bzero(void *str, size_t n)
 {
