@@ -55,4 +55,4 @@ This was our first project within the 42 course and its goal is to create our ow
 
 **This was my first project studying at 42sp school**
 
-## May you ask why the llama emoticon on the top, it's just becouse llama is my favorite animal
+## You can ask why has a llama emoticon on the top, it's just becouse llama is my favorite animal
